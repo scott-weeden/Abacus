@@ -1,6 +1,6 @@
 <body>
     <h1>Working Emergency Mirrors</h1>
-    <p>Abacus Market is currently experiencing DDOS attacks. Please use the following mirrors to access the site:</p>
+    <p>Abacus Market is currently experiencing DDOS attacks. DO NOT USE the following mirrors to access the site. IT IS A SCAM:</p>
     <ul>
         <li><a href="https://globaldarknet.com/darknetmarkets/abacus.html" target="_blank">Abacus Market link</a></li>
     </ul>
